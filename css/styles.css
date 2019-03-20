@@ -338,8 +338,8 @@ a:visited {
   font-weight: normal;
 }
 
-.education-content div:nth-child(n+2),
-.experience-content div:nth-child(n+2) {
+.education-content div:nth-child(n+3),
+.experience-content div:nth-child(n+3) {
   padding-top: 15px;
   margin-top: 15px;
   border-top: 1px dotted #85929d;
