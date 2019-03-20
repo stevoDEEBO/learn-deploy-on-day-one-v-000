@@ -329,7 +329,8 @@ a:visited {
   font-family: "GothamPro-Medium", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  padding-top: 12px;
+  padding-top: 8px;
+  padding-bottom: 4px;
   margin: 8px 0;
 }
 
