@@ -338,7 +338,7 @@ a:visited {
   font-weight: normal;
 }
 
-.education-content div:nth-child(3),
+.education-content div.description-holder,
 .experience-content div.description-holder {
   padding-top: 12px;
   margin-top: 12px;
