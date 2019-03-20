@@ -338,8 +338,8 @@ a:visited {
   font-weight: normal;
 }
 
-.education-content div:nth-child(1),
-.experience-content div:nth-child(1) {
+.education-content div#title-holder,
+.experience-content div#title-holder {
   /*padding-top: 8px;
   margin-top: 12px;
   border-top: 1px dotted #85929d;*/
