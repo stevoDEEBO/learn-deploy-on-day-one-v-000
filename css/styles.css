@@ -329,7 +329,7 @@ a:visited {
   font-family: "GothamPro-Medium", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  padding-top: 16px;
+  padding-top: 12px;
   margin: 8px 0;
 }
 
@@ -340,8 +340,8 @@ a:visited {
 
 .education-content div:nth-child(1),
 .experience-content div:nth-child(1) {
-  padding-top: 8px;
-  /*margin-top: 12px;
+  /*padding-top: 12px;
+  margin-top: 12px;
   border-top: 1px dotted #85929d;*/
 }
 
