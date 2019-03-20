@@ -338,8 +338,8 @@ a:visited {
   font-weight: normal;
 }
 
-.education-content div.title-holder+description-holder,
-.experience-content div.title-holder+description-holder {
+.education-content div.title-holder+description-holder h5,
+.experience-content div.title-holder+description-holder h5 {
   padding-top: 8px;
   /*margin-top: 12px;
   border-top: 1px dotted #85929d;*/
