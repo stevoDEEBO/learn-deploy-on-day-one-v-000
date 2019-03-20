@@ -340,8 +340,8 @@ a:visited {
 
 .education-content div:nth-child(3),
 .experience-content div.description-holder {
-  padding-top: 15px;
-  margin-top: 15px;
+  padding-top: 12px;
+  margin-top: 12px;
   /*border-top: 1px dotted #85929d;*/
 }
 
